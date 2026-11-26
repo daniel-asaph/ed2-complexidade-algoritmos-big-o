@@ -9,7 +9,7 @@ Repositório de apoio ao trabalho em vídeo da disciplina **Estruturas de Dados 
 ---
 
 > **Título:**  
-> `Trabalho de Estruturas de Dados 2 - Unipê - Prof. Ed - Complexidade de Algoritmos (Big-O) - Oliveiros Neto e Daniel Asaph`
+> Trabalho de Estruturas de Dados 2 - Unipê - Prof. Ed - Complexidade de Algoritmos (Big-O) - Oliveiros Neto e Daniel Asaph
 
 ---
 
@@ -26,7 +26,7 @@ A notação **Big-O** não mede tempo em segundos (que varia conforme hardware, 
 | O(1) | Constante | Acesso direto a `vetor[5]` | Sempre o mesmo custo |
 | O(\log n) | Logarítmica | Busca Binária (em dados ordenados) | Corta o espaço de busca pela metade a cada passo |
 | O(n) | Linear | Busca Linear / laço simples | Crescimento proporcional à entrada |
-| O(n \log n)$ | Linearítmica | Merge Sort (Divisão e Conquista) | Muito eficiente para grandes volumes |
+| O(n \log n) | Linearítmica | Merge Sort (Divisão e Conquista) | Muito eficiente para grandes volumes |
 | O(n^2) | Quadrática | Laços aninhados / Bubble Sort | Dispara rapidamente com o aumento de n |
 | O(2^n) | Exponencial | Árvore de recursão binária completa | Inviável mesmo para entradas pequenas |
 
